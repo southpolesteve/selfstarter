@@ -1,0 +1,2 @@
+after_deploy:
+  - rake db:migrate
